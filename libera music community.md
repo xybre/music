@@ -9,7 +9,7 @@ No matter if you're curious about guitar tabs or want to gush about the latest s
 
 # The Channels
 
-- #music : The landing page where many new people will end up first and should be a welcoming and inclusive place for all music lovers (WIP)
+- #music : The landing page where many new people will end up first, it is a welcoming and inclusive place for all music lovers (WIP)
 - #music-makers : For people who are interested in the process of making, recording, and performing music, both pros and novices
 - #music-playlist : Post your current playlists here! Recommendations, works in progress, streams, and music related podcasts! Your tracks will be added to the mega playlist
 
