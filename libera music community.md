@@ -3,9 +3,9 @@
 There has always been a massive overlap between those who make music and the free open source community.
 
 Some use technology by necessity to compose, record, and distribute music.
-While others use technology itself as the instrument from hardware synthesizers to software DAWs.
+Others use technology itself as the instrument from hardware synthesizers to software DAWs.
 
-No matter if you're vurious about guitar tabs or want to gush about the latest softsynth, there is a place for you on IRC.
+No matter if you're curious about guitar tabs or want to gush about the latest softsynth, there is a place for you on IRC.
 
 # The Channels
 
