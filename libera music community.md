@@ -7,17 +7,30 @@ Others use technology itself as the instrument from hardware synthesizers to sof
 
 No matter if you're curious about guitar tabs or want to gush about the latest softsynth, there is a place for you on IRC.
 
+Serving the Libera community since 2021!
+
 # The #music Channels
 
 - #music : The landing page where many new people will end up first, it is a welcoming and inclusive place for all music lovers.
 - #music-makers : For people who are interested in the process of making, recording, and performing music, both pros and novices.
+- #music-theory : If you prefer to focus not just on making music but the nitty gritty of how music can be analyzed or how studied harmonic relationships can be used to make new music, this might be the place for you.
 - #music-playlist : Post your current playlists here! Recommendations, works in progress, streams, and music related podcasts! Your tracks will be added to the mega playlist.
+
+- #bass : 
+
+\* Owned by the #music op and is thus under the same guidelines, but is not under the #music-* namespace.
 
 # General Guidelines
 
 - Be excellent to each other.
 - No trolling, baiting, slurs, incitement, nor attacks.
-- No out-of-context links or egregious self-promotion (except for in #music-playlist).
+- No out-of-context links* or egregious self-promotion (except for in #music-playlist).
+
+If you see someone failing to be excellent to others, you don't need to intervene, but please let the ops know!
+
+As a matter of course you must abide by Libera's Community Rules and avoid "Unwanted content and behviour": https://libera.chat/policies#community-rules-and-recommendations
+
+\* links are perfectly fine as part of a discussion or to start a discussion, please say why you're posting a link :)
 
 # How to Ask
 
@@ -35,13 +48,11 @@ Some questions might take a little while to be answered and not everyone is in t
 
 These channels are other music/audio discussion chats not under the same set of policies as #music and friends.
 
-They are independently operated and have no affiliation. 
+They are independently operated and have no affiliation.
 
 If you know of others, please let us know in #music!
 
 ## Project-Focused Channels
-
-Projects are divided into either "consumer" or "producer" categories for easier grouping.
 
 ### Producer
 
@@ -60,5 +71,6 @@ Projects centered around applications for listeners and end users.
 - #archlinux-proaudio : Archlinux-centric discussion around professional audio.
 - #audio : Audiophile and audio fanatics chat.
 - ##audio : Audiophiles and music technology chat.
-- #music-theory : For the more narrow discussion of music theory.
+- #opensourcemusicians : The companion chat room to the OSM Podcast.
+- #linuxmusicians : Musicians who use Linux.
 - ##music : For discussing all aspects of music. Formerly #music on Freenode, they registered ##music on Libera.
