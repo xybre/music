@@ -58,13 +58,19 @@ If you know of others, please let us know in #music!
 
 Projects centered around applications for musicians and audio creators/engineers.
 
-- #yoshimi : A software audio synthesizer originally forked from ZynAddSubFX.
+- #yoshimi : A software audio synthesizer originally forked from ZynAddSubFX. http://yoshimi.sourceforge.net/
+- #mixx    : A software DJ mixer with beat detection and effects. https://mixxx.org/
 
 ### Consumer
 
 Projects centered around applications for listeners and end users.
 
-- #ampache : A web-based audio streaming application (consumer)
+- #acoustid : Open source audio identification and fingerprinting to match music to the MusicBrainz catalog. https://acoustid.org/
+- #ampache : A web-based audio streaming application. https://ampache.org/
+- #beets   : A commandline music manager and organizer with MusicBrainz integration. https://beets.io
+- #fanart.tv : A site which includes alternative album art and band logos for organizing your music. https://fanart.tv/music-fanart/
+- #musicbrainz : The open music encylopedia and metadata database community and support channel. https://musicbrainz.org/
+- #whipper : A Python CD Ripper that prioritizes accuracy over speed. https://github.com/whipper-team/whipper
 
 ## Related General Topical Channels
 
