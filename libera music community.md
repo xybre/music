@@ -1,6 +1,6 @@
 # The Libera Music Community
 
-There has always been a massive overlap between those who make music and the free open source community.
+There has always been a massive overlap between those who listen to, make, or play music and the free open source community.
 
 Some use technology by necessity to compose, record, and distribute music.
 Others use technology itself as the instrument from hardware synthesizers to software DAWs.
@@ -56,7 +56,7 @@ If you know of others, please let us know in #music!
 
 ### Producer
 
-Projects centered around applications for musicians and audio creators/engineers.
+Projects centered around applications for musicians and audio creators/engineers/DJs.
 
 - #yoshimi : A software audio synthesizer originally forked from ZynAddSubFX. http://yoshimi.sourceforge.net/
 - #mixx    : A software DJ mixer with beat detection and effects. https://mixxx.org/
@@ -69,8 +69,10 @@ Projects centered around applications for listeners and end users.
 - #ampache : A web-based audio streaming application. https://ampache.org/
 - #beets   : A commandline music manager and organizer with MusicBrainz integration. https://beets.io
 - #fanart.tv : A site which includes alternative album art and band logos for organizing your music. https://fanart.tv/music-fanart/
+- #kodi : A smart-TV-like interface for playing music and all kinds of other media. https://kodi.tv/
 - #musicbrainz : The open music encylopedia and metadata database community and support channel. https://musicbrainz.org/
 - #whipper : A Python CD Ripper that prioritizes accuracy over speed. https://github.com/whipper-team/whipper
+- #videolan : Makers of perhaps the most well known multimedia player in open source. https://www.videolan.org/
 
 ## Related General Topical Channels
 
