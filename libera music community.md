@@ -56,6 +56,7 @@ Projects centered around applications for musicians and audio creators/engineers
 
 - #yoshimi : A software audio synthesizer originally forked from ZynAddSubFX. http://yoshimi.sourceforge.net/
 - #mixx    : A software DJ mixer with beat detection and effects. https://mixxx.org/
+- #MuseScore : A classical sheet music composition and notation tool. https://musescore.org/
 
 ### Consumer
 
