@@ -16,10 +16,6 @@ Serving the Libera community since 2021!
 - #music-theory : If you prefer to focus not just on making music but the nitty gritty of how music can be analyzed or how studied harmonic relationships can be used to make new music, this might be the place for you.
 - #music-playlist : Post your current playlists here! Recommendations, works in progress, streams, and music related podcasts! Your tracks will be added to the mega playlist.
 
-- #bass : 
-
-\* Owned by the #music op and is thus under the same guidelines, but is not under the #music-* namespace.
-
 # General Guidelines
 
 - Be excellent to each other.
@@ -79,6 +75,7 @@ Projects centered around applications for listeners and end users.
 - #archlinux-proaudio : Archlinux-centric discussion around professional audio.
 - #audio : Audiophile and audio fanatics chat.
 - ##audio : Audiophiles and music technology chat.
+- #bass : For bass players and musicians.
 - #opensourcemusicians : The companion chat room to the OSM Podcast.
 - #linuxmusicians : Musicians who use Linux.
 - ##music : For discussing all aspects of music. Formerly #music on Freenode, they registered ##music on Libera.
